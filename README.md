@@ -1,10 +1,3 @@
-👋 Hi, I’m Soksay
-👀 I’m interested in crypto currencies and data science
-🌱 I’m currently learning python and especially web3.py library
-💞️ I’m looking to collaborate on crypto projects 
-📫 How to reach me : soksay.sing.pro@gmail.com
+Hi there, I'm Soksay. Passionate about crypto currencies and their ecosystem. I'm trying to build some tools to enhace DeFi user experience. I'm a 4 years experience data analyst as well so I will probably publish some analytics stuff related to crypto currencies. 
 
-<!---
-soksay/soksay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can contact me directly on my e-mail : soksay.sing.pro@gmail.com
